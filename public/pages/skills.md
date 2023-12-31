@@ -6,15 +6,12 @@
 - Web Development (Frontend & Backend)
 
 ## Programming languages
-- C# .NET
+- C++
 - Python
+- HTML/CSS
 - JavaScript/TypeScript
   - React.js
-- T-SQL
-- Go
-- C++
-- Java
-- VB.NET/VBA
+
 
 ## Databases
 - MSSQL

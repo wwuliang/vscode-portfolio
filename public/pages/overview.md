@@ -45,15 +45,11 @@ _**Skills:**_ Code Review, Tutoring, C++
 - Slack
 
 ### Programming Languages
-- Python
 - C++
+- Python
 - HTML/CSS
 - JavaScript/TypeScript
-  - Next.js
   - React.js
-- MIPS
-- R
-- SQL
 
 ## Certificates
 **Google Data Analytics Certificate** from [Coursera](https://www.coursera.org/professional-certificates/google-data-analytics) Issued _Aug 2023_
