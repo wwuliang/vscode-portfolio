@@ -21,6 +21,31 @@ _**Skills:**_ Code Review, Tutoring, C++
 
 &nbsp;
 
+**General Chemistry Peer Teaching Assistant** @ [Hunter College](https://hunter.cuny.edu/artsci/chemistry/) _(Feb 2022 - May 2023)_
+- Provide support to the professor by completing tasks such as: holding office hours, proctoring exams and assignments, attending instructor lectures, and guiding students through lecture content.
+- Develop various learning methods to help students learn the fundamentals of general chemistry in the most efficient way possible.
+- Observe students' performance in the course and provide advice on the most efficient way to study and pass the course.
+
+_**Skills:**_ Peer Tutoring
+
+&nbsp;
+
+**Chapter Founding Member** @ [Asian Pacific American Medical Student Association of Hunter College](https://www.apamsa.org/) New York, NY _(Jun 2021 - May 2023)_
+- Attend and organize 100+ hours of team meetings to discuss further improvements, future club events, and other organizational matters.
+- Interview multiple candidates to construct a team of like-minded individuals to assist with the formation of the APAMSA chapter at Hunter College.
+
+_**Skills:**_ Management
+
+&nbsp;
+
+**Event Coordinator** @ [Asian Pacific American Medical Student Association of Hunter College](https://www.apamsa.org/) New York, NY _(Jun 2022 - May 2023)_
+- Plan out interactive and informative events for pre-health students that are interested in the Asian American Pacific Islander community and the issues that arise within them.
+- Produce PowerPoint slides filled with interactive thoughts and information engaging the pre-health student population regarding Asian American Pacific Islander community and the current day issues.
+
+_**Skills:**_ Event Planning
+
+&nbsp;
+
 ## Education
 
 `2020-Present` [CUNY Hunter College](https://www.hunter.cuny.edu/csci)
