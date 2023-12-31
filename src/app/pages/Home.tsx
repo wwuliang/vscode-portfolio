@@ -23,7 +23,7 @@ export default function Home({ setSelectedIndex }: Props) {
   }, [setSelectedIndex]);
 
   useEffect(() => {
-    document.title = process.env.REACT_APP_NAME!;
+    document.title = process.env.REACT_APP_NAME || 'William Wuliang';
   }, [pathname]);
 
   return (
