@@ -1,3 +1,4 @@
+## NOTE from wwuliang
 This project is from noworneverev (https://github.com/noworneverev/react-vscode-portfolio?tab=readme-ov-file). This is by no means a project I created myself. It is simply a website portfolio for my work.
 
 <div id="top"></div>
