@@ -52,7 +52,8 @@ export default function Home({ setSelectedIndex }: Props) {
               justifyContent={{ xs: "center", sm: "flex-start" }}
             >
               <Typography variant="subtitle1" gutterBottom>
-                Always difficult, always beautiful
+                “Our greatest glory is not in never falling,<br/>but in rising every time we fall.”― Confucius
+                {/* Always difficult, always beautiful */}
                 {/* Better an{' '}
                 <Box fontWeight="fontWeightMedium" display="inline">
                   oops
