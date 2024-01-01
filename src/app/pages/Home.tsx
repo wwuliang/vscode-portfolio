@@ -53,6 +53,7 @@ export default function Home({ setSelectedIndex }: Props) {
             >
               <Typography variant="subtitle1" gutterBottom>
                 “Our greatest glory is not in never falling,<br/>but in rising every time we fall.”― Confucius
+                {/* It's now or never. */}
                 {/* Always difficult, always beautiful */}
                 {/* Better an{' '}
                 <Box fontWeight="fontWeightMedium" display="inline">
