@@ -52,7 +52,7 @@ export default function Home({ setSelectedIndex }: Props) {
               justifyContent={{ xs: "center", sm: "flex-start" }}
             >
               <Typography variant="subtitle1" gutterBottom>
-                "Those who don't jump will never fly"</br>-Leena Ahmad Almashat
+                "Those who don't jump will never fly"<br></br>-Leena Ahmad Almashat
                 {/* “Our greatest glory is not in never falling,<br/>but in rising every time we fall.”― Confucius */}
                 {/* It's now or never. */}
                 {/* Always difficult, always beautiful */}
