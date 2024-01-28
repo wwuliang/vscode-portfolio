@@ -52,7 +52,8 @@ export default function Home({ setSelectedIndex }: Props) {
               justifyContent={{ xs: "center", sm: "flex-start" }}
             >
               <Typography variant="subtitle1" gutterBottom>
-                “Our greatest glory is not in never falling,<br/>but in rising every time we fall.”― Confucius
+                "Those who never jump will never fly" -Leena
+                {/* “Our greatest glory is not in never falling,<br/>but in rising every time we fall.”― Confucius */}
                 {/* It's now or never. */}
                 {/* Always difficult, always beautiful */}
                 {/* Better an{' '}
