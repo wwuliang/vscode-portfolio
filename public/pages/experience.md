@@ -1,6 +1,6 @@
 # 👨‍💻 Experience
 
-**Computer Science Undergraduate Teaching Assistant** @ [Hunter College](https://www.hunter.cuny.edu/csci) _(May 2023 - Dec 2023)_
+**Computer Science Undergraduate Teaching Assistant** @ [Hunter College](https://www.hunter.cuny.edu/csci) New York, NY _(May 2023 - Dec 2023)_
 
 - Conducting weekly code review assessments for a group of 30+ students, evaluating their understanding of coding problems and C++ programming concepts.
 - Assisting 300+ students in identifying and resolving programming errors and logic issues in their C++ code.
@@ -11,7 +11,7 @@ _**Skills:**_ Code Review, Tutoring, C++
 
 &nbsp;
 
-**General Chemistry Peer Teaching Assistant** @ [Hunter College](https://hunter.cuny.edu/artsci/chemistry/) _(Feb 2022 - May 2023)_
+**General Chemistry Peer Teaching Assistant** @ [Hunter College](https://hunter.cuny.edu/artsci/chemistry/) New York, NY _(Feb 2022 - May 2023)_
 - Provide support to the professor by completing tasks such as: holding office hours, proctoring exams and assignments, attending instructor lectures, and guiding students through lecture content.
 - Develop various learning methods to help students learn the fundamentals of general chemistry in the most efficient way possible.
 - Observe students' performance in the course and provide advice on the most efficient way to study and pass the course.
