@@ -26,9 +26,9 @@
 - Windows 10
 
 ## Foreign Languages
-- Spanish (basic)
-- Mandarin (basic)
 - Cantonese (basic)
+- Mandarin (basic)
+- Spanish (basic)
 
 ## Others
 - Microsoft Office
