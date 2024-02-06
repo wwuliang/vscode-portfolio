@@ -18,7 +18,7 @@
 - Amazon Web Services
 - Google Cloud
 
-## VCS
+## Version Control System
 - Git
 
 ## Operating Systems
