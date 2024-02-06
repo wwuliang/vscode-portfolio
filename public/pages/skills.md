@@ -1,9 +1,7 @@
 # 💻 Skills
 
 ## General Tech Stacks
-- Architecture Design
-- Desktop App Development
-- Web Development (Frontend & Backend)
+- Full-Stack Web Development
 
 ## Programming languages
 - C++
@@ -12,18 +10,32 @@
 - JavaScript/TypeScript
   - React.js
 
-
 ## Databases
-- MSSQL
+- MongoDB
 - PostgreSQL
-- MySQL
-- SQLite
 
 ## Cloud
-- Azure
-- GCP
-- Heroku
-- Render
+- Amazon Web Services
+- Google Cloud
 
-## Vcs
+## VCS
 - Git
+
+## Operating Systems
+- Mac OS Ventura
+- Windows 10
+
+## Foreign Languages
+- Spanish (basic)
+- Mandarin (basic)
+- Cantonese (basic)
+
+## Others
+- Microsoft Office
+- Google Workspace
+- Adobe Creative Suite
+- Slack
+- Discord
+- Microsoft Team
+- Zoom
+
