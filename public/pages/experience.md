@@ -1,6 +1,6 @@
 # 👨‍💻 Experience
 
-**Computer Science Undergraduate Teaching Assistant** @ [Hunter College](https://www.hunter.cuny.edu/csci) _(May 2023 - Present)_
+**Computer Science Undergraduate Teaching Assistant** @ [Hunter College](https://www.hunter.cuny.edu/csci) _(May 2023 - Dec 2023)_
 
 - Conducting weekly code review assessments for a group of 30+ students, evaluating their understanding of coding problems and C++ programming concepts.
 - Assisting 300+ students in identifying and resolving programming errors and logic issues in their C++ code.
